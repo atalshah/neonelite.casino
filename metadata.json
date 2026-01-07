@@ -1,0 +1,13 @@
+{
+  "name": "Neon Elite Casino",
+  "version": "1.0.0",
+  "description": "The best Pathan casino free sign up bonus of 177.00 PKR.VIP gaming terminal featuringing Crash, Plinko, Mines, and Neon Slots.",
+  "author": "Alarix System",
+  "main": "index.html",
+  "icon": "icon.png",
+  "theme": "dark",
+  "colors": {
+    "primary": "#f59e0b",
+    "background": "#020406"
+  }
+}
